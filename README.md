@@ -2,14 +2,13 @@
 
 ## Olá Universo!!!! 👋
 Sou desenvolvedor, atualmente trabalho como desenvolvedor fullstack,
-<br>tenho experiências com mobile, web, android nativo e banco de dados
+<br>tenho experiências com mobile, web e banco de dados
 
  :rocket: 💜&nbsp; Estou trabalhando na **JCX Negócios**
  <br/>    📝 &nbsp; Trabalhando hoje com PHP
  <br/>    💙&nbsp; Agora estou estudando React, node e C#.
- <br/>    💻 &nbsp; Minha stack: PHP, Javascript, MySQL.
- <br/>    😊 &nbsp; Posso te ajudar com Java e Python
- <br/>    📱 &nbsp; Whatsapp: +55 11 973747568
+ <br/>    💻 &nbsp; Minha stack: PHP, Javascript, MySQL e Python.
+ <br/>    📱 &nbsp; Whatsapp: [+55 11 973747568](https://wa.me/55011973747568)
  <br/>   💬  &nbsp; Sobre mim: Gosto de desenhar animes.
  <br/>   📫 &nbsp; Entre em contato comigo: [Linkedin](https://www.linkedin.com/in/gabriel-de-melo-marcondes/)
  
