@@ -1,8 +1,8 @@
 # Gabriel de Melo Marcondes
 
 ## Olá Universo!!!! 👋
-Sou desenvolvedor, atualmente trabalho como desenvolvedor fullstack,
-<br>tenho experiências com mobile, web e banco de dados
+Atualmente não trabalho, mas estou estudando ReactJS.
+<br>tenho experiências com mobile, web e banco de dados.
 
 📚 &nbsp; Agora estou estudando React e node.
 <br/> 🎓 &nbsp; Cursando o quinto semestre de **Ciência da Computação** na **FIT (Faculdade IMPACTA Tecnologia)**
