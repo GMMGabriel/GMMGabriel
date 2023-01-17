@@ -1,7 +1,7 @@
 # Gabriel de Melo Marcondes
 
 ## Olá Universo!!!! 👋
-Atualmente não trabalho, mas estou estudando ReactJS.
+Atualmente estudando ReactJS e React Native.
 <br>tenho experiências com mobile, web e banco de dados.
 
 📚 &nbsp; Agora estou estudando React e node.
