@@ -1,12 +1,12 @@
 # Gabriel de Melo Marcondes
 
 ## Olá Universo!!!! 👋
-Atualmente estudando ReactJS e React Native.
+Atualmente estudando ReactJS, React Native e NodeJS.
 <br>tenho experiências com mobile, web e banco de dados.
 
-📚 &nbsp; Agora estou estudando React e node.
-<br/> 🎓 &nbsp; Cursando o quinto semestre de **Ciência da Computação** na **FIT (Faculdade IMPACTA Tecnologia)**
-<br/> 💻 &nbsp; Minha stack: PHP, Javascript, MySQL e Python.
+📚 &nbsp; Estudando ReactJS, React Native e NodeJS.
+<br/> 🎓 &nbsp; Cursando o sétimo semestre de **Ciência da Computação** na **Faculdade IMPACTA**
+<br/> 💻 &nbsp; Minha stack: ReactJS, React Native, NodeJS, Javascript, MySQL e Python.
 <br/> 📱 &nbsp; Whatsapp: [+55 11 973747568](https://wa.me/55011973747568)
 <br/> 💬 &nbsp; Sobre mim: Gosto de desenhar animes e anatomia humana. Curto jogos e enígmas.
 <br/> 📫 &nbsp; Entre em contato comigo: [Linkedin](https://www.linkedin.com/in/gabriel-de-melo-marcondes/)
