@@ -5,7 +5,7 @@ Atualmente estudando ReactJS, React Native e NodeJS.
 <br>tenho experiências com mobile, web e banco de dados.
 
 📚 &nbsp; Estudando ReactJS, React Native e NodeJS.
-<br/> 🎓 &nbsp; Cursando o último(oitavo) semestre de **Ciência da Computação** na **Faculdade IMPACTA**
+<br/> 🎓 &nbsp; Cursando o último (oitavo) semestre de **Ciência da Computação** na **Faculdade IMPACTA**
 <br/> 💻 &nbsp; Minha stack: ReactJS, React Native, NodeJS, Javascript, MySQL, Python e Java.
 <br/> 📱 &nbsp;&nbsp; Whatsapp: [+55 11 973747568](https://wa.me/55011973747568)
 <br/> 💬 &nbsp; Sobre mim: Gosto de desenhar animes e anatomia humana. Curto jogos e enígmas.
