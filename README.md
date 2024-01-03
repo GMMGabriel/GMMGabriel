@@ -1,6 +1,4 @@
-# Gabriel de Melo Marcondes
-
-## Olá Universo!!!! 👋
+# Olá Universo!!!! 👋
 Atualmente estudando ReactJS, React Native e NodeJS.
 <br>tenho experiências com mobile, web e banco de dados.
 
