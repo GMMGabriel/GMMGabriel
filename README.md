@@ -4,7 +4,7 @@
 <a href="https://wa.me/55011973747568"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto" /></a>
 <a href="https://www.instagram.com/gabrielde.melo_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoSize=auto" /></a>
 
-## Eu sou Gabriel de Melo Marcondes
+## Eu sou o Gabriel
 
 📚 &nbsp; Estudando ReactJS, React Native e NodeJS;
 <br/> 🎓 &nbsp; Formado em 2023 no curso de **Ciência da Computação** na **Faculdade IMPACTA**;
