@@ -8,19 +8,31 @@
 
 📚 &nbsp; Estudando ReactJS, React Native e NodeJS;
 <br/> 🎓 &nbsp; Formado em 2023 no curso de **Ciência da Computação** na **Faculdade IMPACTA**;
-<br/> 💬 &nbsp; Sobre mim: Gosto de desenhar animes e anatomia humana. Curto filmes, séries, animes, jogos e enígmas;
+<br/> 💬 &nbsp; Sobre mim: Gosto de desenhar animes e anatomia humana. Curto filmes, séries, animes, jogos e enígmas.
 
-![Static Badge](https://img.shields.io/badge/javascript-_?style=for-the-badge&logo=javascript&logoColor=black&color=%23f1e05a&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/react-_?style=for-the-badge&logo=react&logoColor=black&color=%2361dbfb&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/react%20native-_?style=for-the-badge&logo=react&logoColor=white&color=%2308acda&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/typescript-_?style=for-the-badge&logo=typescript&logoColor=white&color=%233178c6&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/node-_?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%235FA04E&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/fastify-_?style=for-the-badge&logo=fastify&logoColor=white&color=%23000&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/prisma-_?style=for-the-badge&logo=prisma&logoColor=white&color=%232D3748&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/mysql-_?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/python-_?style=for-the-badge&logo=python&logoColor=white&color=%233776AB&logoSize=auto)
+<div align="center">
+  <img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/react-61dbfb?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/react%20native-08acda?style=for-the-badge&logo=react&logoColor=fff" />
+  <img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/node-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/fastify-000?style=for-the-badge&logo=fastify&logoColor=fff" />
+  <img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=fff" />
+  <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff" />
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/tailwindcss-3ebff8?style=for-the-badge&logo=tailwindcss&logoColor=fff" />
+  <img src="https://img.shields.io/badge/html5-f16a2f?style=for-the-badge&logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/css3-469dd7?style=for-the-badge&logo=css3&logoColor=fff" />
+  <img src="https://img.shields.io/badge/axios-671ddf?style=for-the-badge&logo=axios&logoColor=fff" />
+  <img src="https://img.shields.io/badge/git-f05639?style=for-the-badge&logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/vscode-0066b8?style=for-the-badge&logo=visualstudiocode&logoColor=fff" />
+  <img src="https://img.shields.io/badge/insomnia-4000bf?style=for-the-badge&logo=insomnia&logoColor=fff" />
+</div>
 
-<span href="https://github.com/GMMGabriel" align="center">
+<br />
+
+<div align="center">
   <img width="480rem" height="200rem" src="https://github-readme-stats.vercel.app/api?username=GMMGabriel&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true"/>
   <img width="327rem" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMMGabriel&langs_count=5&layout=donut&theme=transparent&hide_border=true&hide=less,css"/>
-</span>
+</div>
